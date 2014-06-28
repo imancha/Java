@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gaji Pegawai</string>
+    <string name="action_settings">Settings</string>    
+    <string name="nama">Nama</string>
+    <string name="nama_karyawan">Nama Karyawan</string>
+    <string name="anak">Anak</string>
+    <string name="banyak_anak">Banyak Anak</string>
+    <string name="hitung">Hitung</string>
+    <string name="gaji_pokok">Gaji Pokok</string>
+    <string name="besar_gaji_pokok">Besar Gaji Pokok</string>
+    <string name="hasil_nama">Nama Karyawan :\n\t\t%s</string>
+    <string name="hasil_anak">Banyak Anak :\n\t\t%s</string>
+    <string name="hasil_gajiPokok">Gaji Pokok :\n\t\tRp. %,.0f</string>
+    <string name="hasil_tunjKeluarga">Tunjangan Keluarga :\n\t\tRp. %,.0f</string>
+    <string name="hasil_tunjAnak">Tunjangan Anak :\n\t\tRp. %,.0f</string>
+    <string name="hasil_gajiKotor">Gaji Kotor :\n\t\tRp. %,.0f</string>
+    <string name="hasil_pajak">Pajak (15%%):\n\t\tRp. %,.0f</string>
+    <string name="hasil_gajiBersih">Gaji Bersih :\n\t\tRp. %,.0f</string>
+
+</resources>
